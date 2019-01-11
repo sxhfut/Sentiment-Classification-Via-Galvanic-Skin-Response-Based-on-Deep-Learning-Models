@@ -1,4 +1,6 @@
-# Sentiment-Classification-Via-Galvanic-Skin-Response-Based-on-Deep-Learning-Models 
+# 合肥工业大学 计算机与信息学院 情感计算研究所 自然语言处理团队 多模态情感语料库
+# 情感计算与先进智能机器安徽省重点实验室
+# Sentiment Classification Via Galvanic Skin Response Based on Deep Learning Models 
 
 # Table of Contents  
 
