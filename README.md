@@ -44,6 +44,9 @@ Here, you can get more data, link：https://pan.baidu.com/s/1JZCpRxmHl_zeR58AOUr
 If you need more data, please contact us. 
 
 <a name="Contact5"></a>
+## Reference ##
+Xiao Sun, Tao Hong, Changliang Li, Fuji Ren, Hybrid spatiotemporal models for sentiment classification via galvanic skin response, Neurocomputing, Volume 358, 2019, Pages 385-400, ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2019.05.061.
 ## Contact ##
 [孙晓 Xiao Sun] E-mail address: (sunx@hfut.edu.cn);   Affective Computing and Advanced
 Intelligent Machine Lab, School of Computer and Information, Hefei University
